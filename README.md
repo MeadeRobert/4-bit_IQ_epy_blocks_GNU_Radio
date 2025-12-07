@@ -1,0 +1,1 @@
+These python code snippets are meant to be inserted into an embedded python block in a GNU radio flowgraph to pack and unpack 8 bit interleaved IQ samples into 4-bit interleaved IQ. They need to be used with stream to vector and vector to stream blocks.
